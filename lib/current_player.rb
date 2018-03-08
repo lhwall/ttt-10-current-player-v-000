@@ -1,4 +1,4 @@
-turn = 0
+turn = 1
 def turn_count(board)
   board.each do |position|
     if position == "X" || position == "O"
